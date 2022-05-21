@@ -51,3 +51,12 @@ Producing Order Parameters
 bash produce.bash
 ```
 
+Simple Diagram of Multicanonical Method (Estimating Weight)
+----
+![MUCA Diagram light](https://user-images.githubusercontent.com/68416208/169634653-776e539a-8cd9-4b31-8d06-de3976b42489.png#gh-light-mode-only)
+![MUCA Diagram dark](https://user-images.githubusercontent.com/68416208/169634781-6d24ddd7-fda8-4384-a347-38dc2925c886.png#gh-dark-mode-only)
+
+Simple Result (Magnetic Susceptibility, T = 0.5)
+-----
+![image](https://user-images.githubusercontent.com/68416208/169634892-c42567f5-e5dc-43d1-b477-bbb3e0ef0595.png)
+
